@@ -16,4 +16,3 @@ As mentioned earlier , after training our model we need a testing image for the 
 
 
 
-![Alt text](/character_recognition/sample1.png)
