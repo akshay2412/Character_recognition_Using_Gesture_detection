@@ -16,7 +16,7 @@ As mentioned earlier , after training our model we need a testing image for the 
 
 
 
-<img src="/character_recognition/sample3.png" width=100)
+![](/character_recognition/sample3.png)
 
 
 
@@ -25,7 +25,7 @@ As mentioned earlier , after training our model we need a testing image for the 
 
 
 
-<img src="/character_recognition/sample2.png" width=100)
+![](/character_recognition/sample2.png)
 
 
 
