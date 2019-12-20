@@ -8,11 +8,24 @@ My aim is to first detect a pattern created by user with his gesture in front of
 
 
 As mentioned earlier , after training our model we need a testing image for the prediction for which we have used OpenCv . OpenCV (Open Source Computer Vision Library) is an open source computer vision and machine learning software library. OpenCV is a cross-platform library using which we can develop real-time computer vision applications. It mainly focuses on image processing, video capture and analysis including features like face detection and object detection
-![Alt text](/character_recognition/sample3.png)
 
 
 
-![Alt text](/character_recognition/sample2.png)
+
+
+
+
+
+<img src="/character_recognition/sample3.png" width=100)
+
+
+
+
+
+
+
+
+<img src="/character_recognition/sample2.png" width=100)
 
 
 
